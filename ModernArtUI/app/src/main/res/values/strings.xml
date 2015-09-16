@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_moreinfo">More information</string>
+    <string name="visit_moma_title">Inspired by the works of artists such as Andy Warhol and Gustav Klimt.\n\n Click below to learn more!</string>
+    <string name="visit_moma_ok">Visit MOMA</string>
+    <string name="visit_moma_cancel">Not Now</string>
+</resources>

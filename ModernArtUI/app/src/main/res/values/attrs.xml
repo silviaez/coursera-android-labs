@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArtColors">
+        <attr name="originalColor" format="string" />
+        <attr name="finalColor" format="string" />
+    </declare-styleable>
+</resources>
