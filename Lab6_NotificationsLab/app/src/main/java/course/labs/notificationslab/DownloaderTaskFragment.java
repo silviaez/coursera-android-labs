@@ -91,7 +91,9 @@ public class DownloaderTaskFragment extends Fragment {
 
         @Override
         protected void onPostExecute(String[] result) {
-            mCallback.notifyDataRefreshed(result);
+            if(null != mCallback) {
+                mCallback.notifyDataRefreshed(result);
+            }
         }
     }
 
